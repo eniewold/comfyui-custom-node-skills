@@ -1,0 +1,13 @@
+{
+  "name": "comfyui-custom-node-skills",
+  "owner": {
+    "name": "Edward Niewold"
+  },
+  "plugins": [
+    {
+      "name": "comfyui-custom-nodes",
+      "source": ".",
+      "description": "9 skills covering ComfyUI custom node development with the V3 and V1 APIs"
+    }
+  ]
+}
